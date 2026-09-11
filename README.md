@@ -1,3 +1,25 @@
+# 💳 Credit Card Financial Weekly Dashboard
+
+An end-to-end **Power BI Data Analytics project** that transforms credit card customer and transaction data into an interactive financial dashboard.
+
+The dashboard provides insights into **revenue, transactions, customer behavior, activation rate, spending patterns, and financial performance**.
+
+---
+
+## 🚀 Live Project
+
+🔗 **[View Live Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=0899b516-01ab-49a3-8dbd-af759877548d&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f)**
+
+> Click the link above to open the interactive Power BI dashboard.
+
+---
+
+
+
+
+
+
+
 # Credit Card Financial Weekly  Dashboard
 
 An end-to-end Power BI project that turns raw credit card transaction and customer data into an interactive dashboard, giving stakeholders real-time visibility into revenue, risk, and customer behavior.
