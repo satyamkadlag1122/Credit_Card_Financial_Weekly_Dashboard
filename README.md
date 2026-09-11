@@ -15,15 +15,6 @@ The dashboard provides insights into **revenue, transactions, customer behavior,
 ---
 
 
-
-
-
-
-
-# Credit Card Financial Weekly  Dashboard
-
-An end-to-end Power BI project that turns raw credit card transaction and customer data into an interactive dashboard, giving stakeholders real-time visibility into revenue, risk, and customer behavior.
-
 ## Project Objective
 
 To develop a comprehensive credit card dashboard that provides real-time insights into key performance metrics and trends — enabling stakeholders to monitor and analyze credit card operations effectively on a recurring (weekly) basis.
